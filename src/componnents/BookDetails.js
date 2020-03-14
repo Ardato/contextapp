@@ -10,7 +10,7 @@ const BookDetails = ({ book }) => {
     </li>
   );
 };
-//try it...
+
 
 
 
